@@ -1,0 +1,15 @@
+{
+  "name": "bakaetbot",
+  "version": "1.0.0",
+  "description": "This bot automates the working of the Bakaet Tournament discord server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrom Chopra",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "mongoose": "^5.10.15"
+  }
+}
